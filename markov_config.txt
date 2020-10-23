@@ -1,0 +1,4 @@
+male_names.txt
+3
+30
+10
