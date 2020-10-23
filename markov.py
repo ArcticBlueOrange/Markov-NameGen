@@ -1,6 +1,6 @@
 import sys, random, argparse, os, re, time
 config_name = 'markov_config.txt'
-defaults= {'file_name':'male_names.txt','token_len':3, 'max_len':30, 'n_words':10}
+defaults= {'file_name':'male-names.txt','token_len':3, 'max_len':30, 'n_words':10}
 _defaults = defaults.copy()
 silent = False
 
