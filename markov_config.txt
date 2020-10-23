@@ -1,4 +1,4 @@
-male_names.txt
+male-names.txt
 3
 30
 10
